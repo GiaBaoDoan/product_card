@@ -1,0 +1,16 @@
+
+body {
+    font-size: 14px;
+    font-family: $font-montserrat;
+    background-color: $cream;
+    color: gray;
+    font-weight: 500;
+}
+.wrapper {
+    max-width: 1920px;
+    padding:  15px;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
